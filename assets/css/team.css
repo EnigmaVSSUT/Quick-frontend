@@ -1,0 +1,9 @@
+#team {
+    padding: 70px 0;
+}
+
+@media(min-width:500px) {
+    #team {
+        padding: 100px 0;
+    }
+}
