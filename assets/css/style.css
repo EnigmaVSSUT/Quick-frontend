@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 a:hover {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #5c9f24;
+  background: #34cc43;
   color: #fff;
   transition: all 0.4s;
 }
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #5c9f24;
+  background-color: #34cc43;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .nav-menu .drop-down > a:after {
@@ -227,11 +227,11 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-  border: 2px solid #5c9f24;
+  border: 2px solid #34cc43;
 }
 
 .get-started-btn:hover {
-  background: #5c9f24;
+  background: #34cc43;
   color: #fff;
 }
 
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #5c9f24;
+  color: #34cc43;
   text-decoration: none;
 }
 
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .carousel-item {
   width: 100%;
   height: 100vh;
-  background-size: cover;
+  background-size: contain !important;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 span {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 #hero p {
@@ -476,7 +476,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #5c9f24;
+  background: #34cc43;
 }
 
 #hero .btn-get-started {
@@ -494,8 +494,8 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   text-transform: uppercase;
-  border: 2px solid #5c9f24;
-  background: #5c9f24;
+  border: 2px solid #34cc43;
+  background: #34cc43;
 }
 
 #hero .btn-get-started:hover {
@@ -541,7 +541,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .section-title p {
@@ -577,7 +577,7 @@ section {
 .about .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .about .content .icon-box p {
@@ -622,7 +622,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 44px;
-  color: #5c9f24;
+  color: #34cc43;
   float: left;
 }
 
@@ -706,7 +706,7 @@ section {
   background: #fff;
   border-radius: 50%;
   transition: 0.5s;
-  color: #5c9f24;
+  color: #34cc43;
   font-size: 40px;
   overflow: hidden;
   padding-top: 20px;
@@ -731,7 +731,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .services .title::after {
@@ -740,7 +740,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #5c9f24;
+  background: #34cc43;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -782,7 +782,7 @@ section {
 }
 
 .why-us .box:hover {
-  background: #5c9f24;
+  background: #34cc43;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -821,7 +821,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5c9f24;
+  background: #34cc43;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -981,7 +981,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .team .member .social i {
@@ -1012,7 +1012,7 @@ section {
 
 .pricing .box h4 {
   font-size: 42px;
-  color: #5c9f24;
+  color: #34cc43;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
@@ -1044,7 +1044,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #5c9f24;
+  color: #34cc43;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1063,8 +1063,8 @@ section {
   display: inline-block;
   padding: 10px 40px 12px 40px;
   border-radius: 4px;
-  border: 2px solid #5c9f24;
-  color: #5c9f24;
+  border: 2px solid #34cc43;
+  color: #34cc43;
   font-size: 14px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
@@ -1073,12 +1073,12 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  background: #5c9f24;
+  background: #34cc43;
   color: #fff;
 }
 
 .pricing .recommended {
-  background: #5c9f24;
+  background: #34cc43;
 }
 
 .pricing .recommended h3, .pricing .recommended h4, .pricing .recommended h4 span, .pricing .recommended ul, .pricing .recommended ul .na {
@@ -1094,7 +1094,7 @@ section {
 .pricing .recommended .btn-buy:hover {
   background: #fff;
   border-color: #fff;
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 /*--------------------------------------------------------------
@@ -1160,7 +1160,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1189,7 +1189,7 @@ section {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .contact .contact-info address, .contact .contact-info p {
@@ -1210,7 +1210,7 @@ section {
 }
 
 .contact .contact-info a:hover {
-  color: #5c9f24;
+  color: #34cc43;
 }
 
 .contact .contact-address, .contact .contact-phone, .contact .contact-email {
@@ -1277,11 +1277,11 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5c9f24;
+  border-color: #34cc43;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #5c9f24;
+  background: #34cc43;
   border: 0;
   padding: 10px 30px 12px 30px;
   color: #fff;
@@ -1398,7 +1398,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #5c9f24 !important;
+  background-color: #34cc43 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1503,7 +1503,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #5c9f24;
+  background: #34cc43;
   color: #fff;
   text-decoration: none;
 }
@@ -1577,7 +1577,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #5c9f24;
+  background: #34cc43;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
