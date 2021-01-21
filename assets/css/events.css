@@ -18,7 +18,10 @@ body {
     width: 100%;
     height: 325px;
 }
-
+.left-side {
+    display: grid;
+    place-items: center;
+}
 .right-side {
     display: grid;
     place-items: center;
