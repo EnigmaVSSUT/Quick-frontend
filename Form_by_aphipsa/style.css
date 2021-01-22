@@ -181,3 +181,11 @@ select{
   box-sizing: border-box;
   box-shadow: 0 15px 25px rgba(0,0,0,.6);
 }
+@media (max-width:900px) {
+  .box{
+    flex-direction: row;
+    margin: 10px auto 5px;
+    align-items: flex-start;
+  }
+
+}
