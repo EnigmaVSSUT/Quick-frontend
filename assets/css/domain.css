@@ -1,0 +1,17 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+  text-align: center;
+}
+h1
+{
+  padding: 10% 0 2% 0;
+  color:#34cc43;
+}
+P{
+  padding: 2%;
+}
+.domain-img{
+  height:230px;
+  width:70%;
+}
